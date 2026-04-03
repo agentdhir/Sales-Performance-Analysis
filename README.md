@@ -36,10 +36,10 @@ High discounting on low-margin products (especially Tables) leads to losses.
 ## Dashboard Preview
 
 ### Overview Dashboard
-![Overview](dashboard_overview.png)
+![Overview](Dashboard_Overview.png)
 
 ### Discount Analysis Dashboard
-![Discount](dashboard_discount.png)
+![Discount](Dashboard_Discount.png)
 
 ---
 
