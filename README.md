@@ -1,4 +1,5 @@
 # Sales Performance Analysis
+A complete end-to-end data analysis project demonstrating how data-driven insights can improve business profitability.
 
 ## Problem Statement
 Why is profit declining despite strong sales performance?
